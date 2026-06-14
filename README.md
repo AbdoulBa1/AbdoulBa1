@@ -1,5 +1,5 @@
 ## Hi, My name is Abdoul👋
-**Junior Computer Science Major & Biology Minor**
+** A Junior in Computer Science & Minor Biology**
 
 *Targeting: Bioinformatics/Software Engineering & Full-Stack Developer Internships*
 <!--

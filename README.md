@@ -1,5 +1,5 @@
 ## Hi, My name is Abdoul👋
-**Junior Computer Science Major & Biology Minor**
+**Junior Computer Science Major & Biology Minor**/n
 *Targeting: Bioinformatics/Software Engineering & Full-Stack Developer Internships*
 <!--
 **AbdoulBa1/AbdoulBa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

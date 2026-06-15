@@ -1,7 +1,7 @@
 ## Hi, My name is Abdoul👋
 **A Junior in Computer Science & Biology Minor**
 
-*Goal: Bioinformatics/Software Engineering & Full-Stack Developer Internships*
+*Goal: Bioinformatics/Software Engineering & Full-Stack Developer Internships *
 
 
 🔭Current summmer focus

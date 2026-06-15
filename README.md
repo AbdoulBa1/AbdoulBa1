@@ -2,6 +2,8 @@
 **A Junior in Computer Science & Biology Minor**
 
 *Goal: Bioinformatics/Software Engineering & Full-Stack Developer Internships*
+
+
 🔭Current summmer focus
 * **Python Project:** Building a High Volume of projects to sharpen my coding logic and problem-solving skill.
 

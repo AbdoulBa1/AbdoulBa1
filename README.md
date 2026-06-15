@@ -7,7 +7,7 @@
 🔭Current summmer focus
 * **Python Project:** Building a High Volume of projects to sharpen my coding logic and problem-solving skill.
 
-* **Skill Building:** Reviewing core Python concepts and putting them into
+* **Skill Building:** Reviewing core Python concepts and putting them into practice daily to become a strong programmer.
 
 * **Portfolio Pipeline:** Developing and pushing code consistently to prepare for the Summer 2027 recruting cycle.
 

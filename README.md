@@ -1,7 +1,14 @@
 ## Hi, My name is Abdoul👋
-** A Junior in Computer Science & Minor Biology**
+**A Junior in Computer Science & Biology Minor**
 
-*Targeting: Bioinformatics/Software Engineering & Full-Stack Developer Internships*
+*Goal: Bioinformatics/Software Engineering & Full-Stack Developer Internships*
+🔭Current summmer focus
+* **Python Project:** Building a High Volume of projects to sharpen my coding logic and problem-solving skill.
+
+* **Skill Building:** Reviewing core Python concepts and putting them into
+
+* **Portfolio Pipeline:** Developing and pushing code consistently to prepare for the Summer 2027 recruting cycle.
+
 <!--
 **AbdoulBa1/AbdoulBa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
